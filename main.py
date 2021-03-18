@@ -1,6 +1,5 @@
 import tweepy
 import schedule
-import requests
 import random
 import os
 from time import sleep
